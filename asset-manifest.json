@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/diceroll/static/css/main.a617e044.chunk.css",
+    "main.js": "/diceroll/static/js/main.12a34506.chunk.js",
+    "main.js.map": "/diceroll/static/js/main.12a34506.chunk.js.map",
+    "runtime-main.js": "/diceroll/static/js/runtime-main.647585b2.js",
+    "runtime-main.js.map": "/diceroll/static/js/runtime-main.647585b2.js.map",
+    "static/css/2.94d102f3.chunk.css": "/diceroll/static/css/2.94d102f3.chunk.css",
+    "static/js/2.64bcdecb.chunk.js": "/diceroll/static/js/2.64bcdecb.chunk.js",
+    "static/js/2.64bcdecb.chunk.js.map": "/diceroll/static/js/2.64bcdecb.chunk.js.map",
+    "static/js/3.c30fbaf1.chunk.js": "/diceroll/static/js/3.c30fbaf1.chunk.js",
+    "static/js/3.c30fbaf1.chunk.js.map": "/diceroll/static/js/3.c30fbaf1.chunk.js.map",
+    "index.html": "/diceroll/index.html",
+    "static/css/2.94d102f3.chunk.css.map": "/diceroll/static/css/2.94d102f3.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/diceroll/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.64bcdecb.chunk.js.LICENSE.txt": "/diceroll/static/js/2.64bcdecb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647585b2.js",
+    "static/css/2.94d102f3.chunk.css",
+    "static/js/2.64bcdecb.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.12a34506.chunk.js"
+  ]
+}
