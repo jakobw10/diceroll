@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import {Button} from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App():JSX.Element {
   function Rolldie(){
@@ -13,7 +14,7 @@ function App():JSX.Element {
         <p>
          Click on the button to roll the die
         </p>
-        <button onClick={this.Rolldie()}> Roll Me!</button>
+        <button onClick={()=>Rolldie()}> Roll Me!</button>
       </header>
     </div>
   );
