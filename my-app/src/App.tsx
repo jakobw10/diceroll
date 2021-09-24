@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
+import {Button} from 'react-bootstrap';
 
-function App() {
-  function Rolldie():number{
-    return Math.floor(Math.random()*6+1)
+function App():JSX.Element {
+  function Rolldie(){
+    let rolled: number=Math.floor(Math.random()*6+1)
+    alert('You rolled a '+rolled);
   }
   return (
     <div className="App">
@@ -11,7 +13,7 @@ function App() {
         <p>
          Click on the button to roll the die
         </p>
-        <button > Roll Me!</button>
+        <button onClick={this.Rolldie()}> Roll Me!</button>
       </header>
     </div>
   );
